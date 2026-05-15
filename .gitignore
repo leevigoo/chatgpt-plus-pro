@@ -1,0 +1,6 @@
+PUBLISH.md
+.DS_Store
+*.log
+.idea/
+.vscode/
+.claude/settings.local.json
