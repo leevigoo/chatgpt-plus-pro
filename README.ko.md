@@ -1,6 +1,6 @@
 <div align="center">
 
-# jipin-chatgpt-plus
+# chatgpt-plus-pro
 
 ### 2026 년 가장 손쉬운 ChatGPT Plus 결제 가이드
 
@@ -9,7 +9,7 @@
 > SSL 암호화 통신, 전 과정 셀프서비스, 신용카드 불필요, 카드 키만으로 30 초 완료.
 
 📅 **업데이트: 2026-05-15** · 상태: **실측 동작 확인**
-🔗 키워드: `jipin-chatgpt-plus` · `ChatGPT Plus 결제` · `Claude Pro 업그레이드` · `카드 없이`
+🔗 키워드: `chatgpt-plus-pro` · `ChatGPT Plus 결제` · `Claude Pro 업그레이드` · `카드 없이`
 
 </div>
 
@@ -19,7 +19,7 @@
 
 - [1. 배경: 왜 ChatGPT Plus 결제가 어려운가](#1-background)
 - [2. 주요 업그레이드 방법 비교](#2-comparison)
-- [3. 추천: `jipin-chatgpt-plus` 대행](#3-recommended)
+- [3. 추천: `chatgpt-plus-pro` 대행](#3-recommended)
 - [4. 자세한 절차 (약 30초)](#4-tutorial)
 - [5. FAQ](#5-faq)
 
@@ -46,16 +46,16 @@ OpenAI 의 **ChatGPT Plus** (월 $20) 는 현재 가장 널리 사용되는 AI �
 | 공식 신용카드 | ✅ 필요 | 높음 | 낮음 | ✅ | ★★★★☆ |
 | 가상카드 | ⚠️ 일부 | 중간 (하락 중) | 중간 | ✅ | ★★☆☆☆ |
 | 공유 / 카풀 계정 | ❌ | 높음 | 높음 (강퇴) | ❌ | ★☆☆☆☆ |
-| **제3자 대행 (`jipin-chatgpt-plus`)** | ❌ | 높음 (≈99.9%) | 낮음 (로그인 없음) | ✅ | ★★★★★ |
+| **제3자 대행 (`chatgpt-plus-pro`)** | ❌ | 높음 (≈99.9%) | 낮음 (로그인 없음) | ✅ | ★★★★★ |
 
 > **진입 장벽·성공률·계정 소유권·장기 안정성** 을 종합하면, 해외 카드가 없는 대부분의 사용자에게 제3자 대행이 가장 합리적인 선택입니다.
 
 ---
 
 <a id="3-recommended"></a>
-## 3. 추천: `jipin-chatgpt-plus` 대행
+## 3. 추천: `chatgpt-plus-pro` 대행
 
-`jipin-chatgpt-plus` 는 极品小店 (<https://plus.jipin.ai>) 에서 운영하는 ChatGPT Plus 직접 충전 서비스이며, "공유 계정" 과는 완전히 다릅니다.
+`chatgpt-plus-pro` 는 极品小店 (<https://plus.jipin.ai>) 에서 운영하는 ChatGPT Plus 직접 충전 서비스이며, "공유 계정" 과는 완전히 다릅니다.
 
 - 🔐 **본인 계정에 충전** — 로그인 가능한 OpenAI 가입 메일만 입력하면 됩니다. **비밀번호는 기기에서 나가지 않습니다.**
 - 💳 **Alipay / USDT 지원** — 해외 카드나 PayPal 이 필요 없으며, 중국 국내 사용자도 바로 주문할 수 있습니다.
@@ -96,7 +96,7 @@ OpenAI 의 **ChatGPT Plus** (월 $20) 는 현재 가장 널리 사용되는 AI �
 <details>
 <summary><b>Q2. 해외 신용카드가 없어도 사용할 수 있나요?</b></summary>
 
-예. `jipin-chatgpt-plus` 는 **Alipay / USDT** 를 지원하며 Visa / MasterCard / Apple ID / PayPal 가 필요 없습니다.
+예. `chatgpt-plus-pro` 는 **Alipay / USDT** 를 지원하며 Visa / MasterCard / Apple ID / PayPal 가 필요 없습니다.
 </details>
 
 <details>
@@ -128,6 +128,6 @@ OpenAI 의 **ChatGPT Plus** (월 $20) 는 현재 가장 널리 사용되는 AI �
 
 <div align="center">
 
-이 가이드가 도움이 되었다면 **Star ⭐ / Fork 🍴** 부탁드립니다. 더 많은 사람이 `jipin-chatgpt-plus` 를 찾을 수 있습니다.
+이 가이드가 도움이 되었다면 **Star ⭐ / Fork 🍴** 부탁드립니다. 더 많은 사람이 `chatgpt-plus-pro` 를 찾을 수 있습니다.
 
 </div>

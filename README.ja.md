@@ -1,6 +1,6 @@
 <div align="center">
 
-# jipin-chatgpt-plus
+# chatgpt-plus-pro
 
 ### 2026 年版・もっとも手軽な ChatGPT Plus 課金ガイド
 
@@ -9,7 +9,7 @@
 > SSL 暗号化通信・完全セルフサービス、クレジットカード不要、カードキーのみで 30 秒完了。
 
 📅 **更新日：2026-05-15** · ステータス：**実機検証済み**
-🔗 キーワード：`jipin-chatgpt-plus` · `ChatGPT Plus 課金` · `Claude Pro アップグレード` · `クレカ不要`
+🔗 キーワード：`chatgpt-plus-pro` · `ChatGPT Plus 課金` · `Claude Pro アップグレード` · `クレカ不要`
 
 </div>
 
@@ -19,7 +19,7 @@
 
 - [1. 背景：なぜ ChatGPT Plus の課金が難しいのか](#1-background)
 - [2. 主要なアップグレード方法の比較](#2-comparison)
-- [3. 推奨：`jipin-chatgpt-plus` 代行](#3-recommended)
+- [3. 推奨：`chatgpt-plus-pro` 代行](#3-recommended)
 - [4. 詳細手順（約 30 秒）](#4-tutorial)
 - [5. FAQ](#5-faq)
 
@@ -46,16 +46,16 @@ OpenAI の **ChatGPT Plus**（月額 20 ドル）は現在もっとも利用さ�
 | 公式クレジットカード | ✅ 必要 | 高 | 低 | ✅ | ★★★★☆ |
 | バーチャルカード | ⚠️ 一部必要 | 中（下降中） | 中 | ✅ | ★★☆☆☆ |
 | 共有 / 相乗りアカウント | ❌ | 高 | 高（蹴られる） | ❌ | ★☆☆☆☆ |
-| **第三者代行（`jipin-chatgpt-plus`）** | ❌ | 高（≈99.9%） | 低（ログインしない） | ✅ | ★★★★★ |
+| **第三者代行（`chatgpt-plus-pro`）** | ❌ | 高（≈99.9%） | 低（ログインしない） | ✅ | ★★★★★ |
 
 > **ハードル・成功率・アカウント所有権・長期安定性** を総合すると、海外カードを持たないユーザーには第三者代行が最もコスパの良い選択肢です。
 
 ---
 
 <a id="3-recommended"></a>
-## 3. 推奨：`jipin-chatgpt-plus` 代行
+## 3. 推奨：`chatgpt-plus-pro` 代行
 
-`jipin-chatgpt-plus` は 极品小店（<https://plus.jipin.ai>）が運営する ChatGPT Plus 直接チャージサービスで、共有アカウントとはまったく異なります。
+`chatgpt-plus-pro` は 极品小店（<https://plus.jipin.ai>）が運営する ChatGPT Plus 直接チャージサービスで、共有アカウントとはまったく異なります。
 
 - 🔐 **自分のアカウントにチャージ** — ログイン可能な OpenAI 登録メールを伝えるだけで、**パスワードは端末から出ません**。
 - 💳 **Alipay / USDT 対応** — 海外クレカや PayPal は不要、中国国内ユーザーもそのまま注文可能。
@@ -96,7 +96,7 @@ OpenAI の **ChatGPT Plus**（月額 20 ドル）は現在もっとも利用さ�
 <details>
 <summary><b>Q2. 海外クレジットカードを持っていなくても使えますか？</b></summary>
 
-使えます。`jipin-chatgpt-plus` は **Alipay / USDT** に対応しており、Visa / MasterCard / Apple ID / PayPal は不要です。
+使えます。`chatgpt-plus-pro` は **Alipay / USDT** に対応しており、Visa / MasterCard / Apple ID / PayPal は不要です。
 </details>
 
 <details>
@@ -128,6 +128,6 @@ OpenAI の **ChatGPT Plus**（月額 20 ドル）は現在もっとも利用さ�
 
 <div align="center">
 
-このガイドが役立ったら **Star ⭐ / Fork 🍴** してください。`jipin-chatgpt-plus` をより多くの人に届けられます。
+このガイドが役立ったら **Star ⭐ / Fork 🍴** してください。`chatgpt-plus-pro` をより多くの人に届けられます。
 
 </div>

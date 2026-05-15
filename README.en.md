@@ -1,6 +1,6 @@
 <div align="center">
 
-# jipin-chatgpt-plus
+# chatgpt-plus-pro
 
 ### The Easiest ChatGPT Plus Top-up Guide for 2026
 
@@ -9,7 +9,7 @@
 > SSL-encrypted, fully self-service top-up — no credit card required, just a card key, completed in 30 seconds.
 
 📅 **Updated: 2026-05-15** · Status: **verified working**
-🔗 Keywords: `jipin-chatgpt-plus` · `chatgpt-plus top-up` · `claude-pro upgrade` · `no credit card`
+🔗 Keywords: `chatgpt-plus-pro` · `chatgpt-plus top-up` · `claude-pro upgrade` · `no credit card`
 
 </div>
 
@@ -19,7 +19,7 @@
 
 - [1. Background: why upgrading ChatGPT Plus is hard](#1-background)
 - [2. Comparison of available upgrade methods](#2-comparison)
-- [3. Recommended: `jipin-chatgpt-plus` top-up](#3-recommended)
+- [3. Recommended: `chatgpt-plus-pro` top-up](#3-recommended)
 - [4. Step-by-step (≈30s)](#4-tutorial)
 - [5. FAQ](#5-faq)
 
@@ -46,16 +46,16 @@ In 2026 there are basically two methods that still reliably work: **own a real o
 | Official credit card (Visa / Master) | ✅ Yes | High | Low (address must match) | ✅ | ★★★★☆ |
 | Virtual card (Depay / WildCard …) | ⚠️ Partial | Medium (dropping) | Medium (often throttled) | ✅ | ★★☆☆☆ |
 | Shared / carpool account | ❌ | High | High (can be kicked) | ❌ | ★☆☆☆☆ |
-| **Third-party top-up (`jipin-chatgpt-plus`)** | ❌ | High (≈99.9%) | Low (no login takeover) | ✅ | ★★★★★ |
+| **Third-party top-up (`chatgpt-plus-pro`)** | ❌ | High (≈99.9%) | Low (no login takeover) | ✅ | ★★★★★ |
 
 > Weighing **barrier to entry, success rate, account ownership and long-term stability**, third-party top-up is the most cost-effective option for most non-US/EU users.
 
 ---
 
 <a id="3-recommended"></a>
-## 3. Recommended: `jipin-chatgpt-plus` top-up
+## 3. Recommended: `chatgpt-plus-pro` top-up
 
-`jipin-chatgpt-plus` is the ChatGPT Plus top-up service operated by 极品小店 at <https://plus.jipin.ai>. It is **not** a shared account:
+`chatgpt-plus-pro` is the ChatGPT Plus top-up service operated by 极品小店 at <https://plus.jipin.ai>. It is **not** a shared account:
 
 - 🔐 **Charges your own account** — you only provide your OpenAI account email. **Your password never leaves your device.**
 - 💳 **Alipay / USDT supported** — no foreign credit card, no PayPal needed; users in China can pay directly.
@@ -96,7 +96,7 @@ No. The top-up is applied to **your own account**; you keep the password and ful
 <details>
 <summary><b>Q2. Can I use it without a foreign credit card?</b></summary>
 
-Yes. `jipin-chatgpt-plus` accepts **Alipay** and **USDT** — no Visa, MasterCard, Apple ID or PayPal required.
+Yes. `chatgpt-plus-pro` accepts **Alipay** and **USDT** — no Visa, MasterCard, Apple ID or PayPal required.
 </details>
 
 <details>
@@ -128,6 +128,6 @@ The top-up flow **never logs into your account**, so the upgrade itself will not
 
 <div align="center">
 
-If this guide helped you, please **Star ⭐ / Fork 🍴** so others can find `jipin-chatgpt-plus`.
+If this guide helped you, please **Star ⭐ / Fork 🍴** so others can find `chatgpt-plus-pro`.
 
 </div>

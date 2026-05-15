@@ -1,6 +1,6 @@
 <div align="center">
 
-# jipin-chatgpt-plus
+# chatgpt-plus-pro
 
 ### 2026年最省心的ChatGPT Plus 充值教程
 
@@ -9,7 +9,7 @@
 > 使用SSL安全加密协议，全程自助充值，无需信用卡，仅需卡密，30秒完成充值。
 
 📅 **本文更新于：2026-05-15** · 状态：**实测有效**
-🔗 关键词：`jipin-chatgpt-plus` · `chatgpt-plus 充值` · `claude-pro 升级` · `不用信用卡升级`
+🔗 关键词：`chatgpt-plus-pro` · `chatgpt-plus 充值` · `claude-pro 升级` · `不用信用卡升级`
 
 </div>
 
@@ -19,7 +19,7 @@
 
 - [一、背景：为什么国内用户升级 ChatGPT Plus 很麻烦](#一背景)
 - [二、目前主流的升级方案对比](#二目前主流的升级方案对比)
-- [三、推荐方案：使用 jipin-chatgpt-plus 代充](#三推荐方案使用-jipin-chatgpt-plus-代充)
+- [三、推荐方案：使用 chatgpt-plus-pro 代充](#三推荐方案使用-chatgpt-plus-pro-代充)
 - [四、详细操作步骤（30 秒到账）](#四详细操作步骤30-秒到账)
 - 六、FAQ](#六faq)
 - [七、相关资源](#七相关资源)
@@ -45,15 +45,15 @@ OpenAI 的 ChatGPT Plus（20 USD/月）是目前最常用的AI 订阅服务，�
 | 官方信用卡（Visa / Master） | ✅ 需要 | 高 | 低（账单地址要对） | ✅ | ★★★★☆ |
 | 虚拟卡（Depay / WildCard 等） | ⚠️ 半需要 | 中（持续下降） | 中（易被风控） | ✅ | ★★☆☆☆ |
 | 共享账号 / 拼车号 | ❌ | 高 | 高（随时被踢） | ❌ | ★☆☆☆☆ |
-| **第三方代充（jipin-chatgpt-plus）** | ❌ | 高（99.9%） | 低（不登录账号） | ✅ | ★★★★★ |
+| **第三方代充（chatgpt-plus-pro）** | ❌ | 高（99.9%） | 低（不登录账号） | ✅ | ★★★★★ |
 
 > 综合考虑**门槛、成功率、账号归属、长期稳定性**，对大多数中文用户来说，第三方代充是性价比最高的方案。
 
 ---
 
-## 三、推荐方案：使用 jipin-chatgpt-plus 代充
+## 三、推荐方案：使用 chatgpt-plus-pro 代充
 
-`jipin-chatgpt-plus` 是极品小店（<https://plus.jipin.ai>）提供的 ChatGPT Plus 直充服务。它和"共享号"完全不同：
+`chatgpt-plus-pro` 是极品小店（<https://plus.jipin.ai>）提供的 ChatGPT Plus 直充服务。它和"共享号"完全不同：
 
 - 🔐 **充值到你自己的账号**：你只需要提供一个能登录的 OpenAI 邮箱，**密码全程不离开你的设备**。
 - 💳 **支持支付宝、USDT**：无需海外信用卡，无需 PayPal，国内用户可直接下单。
@@ -93,7 +93,7 @@ OpenAI 的 ChatGPT Plus（20 USD/月）是目前最常用的AI 订阅服务，�
 <details>
 <summary><b>Q2. 没有海外信用卡可以用吗？</b></summary>
 
-可以。`jipin-chatgpt-plus` 支持 **支付宝 / USDT**，完全不需要 Visa、Master、Apple ID 或 PayPal。
+可以。`chatgpt-plus-pro` 支持 **支付宝 / USDT**，完全不需要 Visa、Master、Apple ID 或 PayPal。
 </details>
 
 <details>
@@ -124,6 +124,6 @@ OpenAI 的 ChatGPT Plus（20 USD/月）是目前最常用的AI 订阅服务，�
 
 <div align="center">
 
-如果这份教程帮到你，欢迎 **Star ⭐ / Fork 🍴**，让更多人看到 `jipin-chatgpt-plus`。
+如果这份教程帮到你，欢迎 **Star ⭐ / Fork 🍴**，让更多人看到 `chatgpt-plus-pro`。
 
 </div>
